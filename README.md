@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, I am Yacine Ziainia, Computer Science Student at<br>ESI Algiers (Higher National School of Computer Sience ESI ex INI.)<br>
+Hello everyone, I am Yacine Ziainia, Computer Science Student at<br>ESI Algiers (Higher National School of Computer Science ESI ex INI.)<br>
 
 
 ## 🌐 Socials:
